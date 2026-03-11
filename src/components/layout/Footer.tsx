@@ -48,8 +48,8 @@ export default function Footer() {
               <li><Link to="/privacy" className="hover:text-accent transition-colors">Privacy Policy</Link></li>
               <li><Link to="/terms" className="hover:text-accent transition-colors">Terms & Conditions</Link></li>
               <li><Link to="/contact" className="hover:text-accent transition-colors">Help Center</Link></li>
-              <li><span className="text-background/40">support@arcomputer.com</span></li>
-              <li><span className="text-background/40">+91 1800-123-4567</span></li>
+              <li><span className="text-background/40">arcomputers@gmail.com</span></li>
+              <li><span className="text-background/40">+91 7888198196</span></li>
             </ul>
           </div>
         </div>
